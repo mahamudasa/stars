@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6282274499424@s.whatsapp.net"],
+    "ownerName": "Rainbetmutxyz",
+    "instagram" : "https://instagram.com/rain4you_",
+    "botName": "ɴᴇᴢᴜᴋᴏ ʙᴏᴛ-ᴍᴅ✿",
+    "footer": "Rainbetmutxyz || 2022",
+    "sessionName": "Rainbetmutxyz",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "V12",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
